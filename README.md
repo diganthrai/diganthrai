@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diganthrai
-- 👀 I’m interested in DATA ANALYSIS
-- 🌱 I’m currently learning SQL, PYTHON, Tableau AND POWER BI
-- 📫 How to reach me diganthrai048@gmail.com
+- 👀 I’m interested in DATA ENGINEERING
+- 🌱 TECH - Stack  SQL, PYTHON, Azure Services,Databricks AND POWER BI
+- 📫 How to reach me 1996diganthrai@gmail.com
 
 <!---
 diganthrai/diganthrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
